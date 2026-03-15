@@ -1,0 +1,5 @@
+class,precision,recall,f1_score,support
+ChatGPT,0.9971,0.9971,0.9971,678
+AI-Polished,0.8336,0.8496,0.8415,678
+Human-Fusion,0.8415,0.7832,0.8113,678
+Human,0.9522,1.0,0.9755,678
